@@ -22,13 +22,11 @@ The system then compares a test image with training images and identifies the cl
 * Matplotlib
 
 ## Project Structure
+* train  – contains training face images
+* test – contains the test image
+* pca_face.py – main Python program for PCA face recognition
+* PCA-BASED FACE RECOGNITION SYSTEM.pdf – project report
 
-PCA_Face_Project
-│
-├── train/ (training images)
-├── test/ (test image)
-├── pca_face.py (main Python code)
-└── PCA-BASED FACE RECOGNITION SYSTEM.pdf (project report)
 
 ## How It Works
 
